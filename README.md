@@ -1,5 +1,7 @@
 Mein erstes richtiges Anfänger Projekt! Würde mich über feedback freuen
 
+Dieses Projekt entstand als Quereinsteiger der Python lernt — die Idee kam aus der Faszination für Simulationsspiele und industrielle Prozesse
+
 Die Maschiene – Ein digitaler Zwilling in Python
 Dieses Projekt ist eine Echtzeit-Simulation einer industriellen Sägestraße. Das Ziel ist es, eine physische Maschine als „digitalen Zwilling“ in Python abzubilden, um logische Abläufe, Sensorsteuerungen und Materialfluss zu simulieren, bevor sie auf echter Hardware laufen würden.
 
